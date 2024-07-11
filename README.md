@@ -1,5 +1,4 @@
-# Canny Edge Detection Web Application
-
+# Canny Edge Detection 
 This project is a web application built with Flask that performs Canny edge detection on uploaded images. Users can upload an image and specify parameters for the detection algorithm, and the processed image will be returned.
 
 ## Project Structure
